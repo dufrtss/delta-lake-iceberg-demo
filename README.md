@@ -2,7 +2,7 @@
 
 This project is a demonstration of apache spark with delta lake and apache iceberg for creating seamless data engineering workflows.
 
-Developed by Eduardo Freitas and Sofia Martins.
+Developed by Eduardo Freitas and [Sofia Martins](https://github.com/SofiaMartinslv).
 
 ## Instructions
 
